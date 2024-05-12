@@ -1,0 +1,5 @@
+~~~ ESP32 MicroPython - TEMPERATURE NTC ~~~
+
+Downloaded from https://wokwi.com/projects/397351946408459265
+
+Simulate this project on https://wokwi.com
