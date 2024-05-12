@@ -1,4 +1,4 @@
-![alt text](src/encabezado.png)
+![alt text](../src/encabezado.png)
 
 ## <p style="text-align: center;">TRABAJO PRACTICO N° 4</p>
 
